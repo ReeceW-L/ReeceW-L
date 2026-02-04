@@ -3,7 +3,7 @@
 - Interested in synthesis, creative processing and game audio
 - Using C++ for audio
  ____________________________________________________________
-- Current Projects
+Current Projects
 - Making custom nodes in MetaSounds to produce natural sounds
  ____________________________________________________________
 - I love electronic composition and hardware instruments
